@@ -1,6 +1,6 @@
 :root {
     --size-1: 910px; /*1200px;*/ /*910*/
-    --size-2: 700px; /*1180px;*/ /*890*/
+    --size-2: 705px; /*1180px;*/ /*890*/
     --size-3: 800px; /*1100px;*/ /*800*/
 }
 
@@ -16,6 +16,10 @@ html
 .column {
   float: left;
   padding: 10px 10px 10px 10px;
+}
+
+.csmall{
+width:20%
 }
 
 .left {
@@ -374,5 +378,7 @@ ul#menu li a:hover
 
 table tr th, table tr td
 {   
-   font: normal 100% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;}
+    font: normal 100% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;}
+
+
 

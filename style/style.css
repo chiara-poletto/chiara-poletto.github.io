@@ -19,7 +19,8 @@ html
 }
 
 .csmall{
-width:20%
+      text-align: center;
+width:30%
 }
 
 .left {
@@ -165,6 +166,10 @@ a:hover
 {font-weight: bold;
  color: #40a187;}
 
+#p a
+{font-weight: bold;
+ color: #40a187;}
+
 blockquote
 { margin: 20px 0 20px 0; 
     padding: 10px 20px 0 20px;
@@ -197,7 +202,8 @@ ol li
     text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #52a367;}
+{ font-weight: bold;
+ color: #40a187;}
 
 
 #logo_text h2

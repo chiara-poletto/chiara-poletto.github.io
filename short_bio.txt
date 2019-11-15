@@ -1,0 +1,9 @@
+Short bio:
+Piotr studied in environmental biology and computational methods of physics at the University of Warsaw, PL. And later, for his PhD, at the School of Environmental Sciences at the University of East Anglia, Norwich, UK where he modelled the evolution of the bacterial genome under environmental change. Since then, he held postdoc positions working on structural bioinformatics (IIMCB, Warsaw, PL) and evolution of the major histocompatibility genes (Adam Mickiewicz University, Poznań, PL). For the past few years, his main interests have been theoretical biology and evolution.​
+
+Research activities:
+Piotr specializes in agent-based models simulating various evolutionary and ecological processes.  At the moment he is working on a model of seasonal influenza evolution and its validation by empirical data obtained from country-wide health surveys held in France.​
+
+More:
+Web page:   www.bentkowski.net
+Repository: www.github.com/pbentkowski

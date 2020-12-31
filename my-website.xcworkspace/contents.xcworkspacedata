@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Arregui-Garcia.html">
+   </FileRef>
+   <FileRef
+      location = "group:bentkowski.html">
+   </FileRef>
+   <FileRef
+      location = "group:contacts.html">
+   </FileRef>
+   <FileRef
+      location = "group:index.html">
+   </FileRef>
+   <FileRef
+      location = "group:more.html">
+   </FileRef>
+   <FileRef
+      location = "group:Moreno-Lopez.html">
+   </FileRef>
+   <FileRef
+      location = "group:open-position.html">
+   </FileRef>
+   <FileRef
+      location = "group:people_openings.html">
+   </FileRef>
+   <FileRef
+      location = "group:people.html">
+   </FileRef>
+   <FileRef
+      location = "group:pinotti.html">
+   </FileRef>
+   <FileRef
+      location = "group:poletto.html">
+   </FileRef>
+   <FileRef
+      location = "group:publications.html">
+   </FileRef>
+   <FileRef
+      location = "group:research.html">
+   </FileRef>
+</Workspace>

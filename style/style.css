@@ -213,7 +213,7 @@ ol li
 
 #menubar
 { width: var(--size-2);
-    word-spacing: 10px;
+    word-spacing: 0px;
     height: 40px;
     position: relative;
     float: right;} 

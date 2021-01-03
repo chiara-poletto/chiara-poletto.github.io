@@ -14,6 +14,9 @@
       location = "group:index.html">
    </FileRef>
    <FileRef
+      location = "group:style/style.css">
+   </FileRef>
+   <FileRef
       location = "group:old-news.html">
    </FileRef>
    <FileRef

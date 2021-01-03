@@ -20,6 +20,9 @@
       location = "group:old-news.html">
    </FileRef>
    <FileRef
+      location = "group:assab.html">
+   </FileRef>
+   <FileRef
       location = "group:temp.html">
    </FileRef>
    <FileRef

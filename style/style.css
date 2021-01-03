@@ -74,7 +74,7 @@ body
 
 #quotetext
 { position:relative;
-  left: 350px;
+  left: 300px;
   text-align: right;
   width: 400px;
   font: italic 120% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
@@ -238,7 +238,7 @@ ul#menu li a
     height: 20px;
     text-decoration: none; 
 /*    padding: 9px 22px 5px 16px;*/
-    padding: 9px 10px 5px 8px;
+    padding: 9px 12px 5px 10px;
     text-align: center;
     color: #111;
     border: 0;} 

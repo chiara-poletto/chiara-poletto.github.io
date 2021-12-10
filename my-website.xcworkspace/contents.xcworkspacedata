@@ -23,6 +23,9 @@
       location = "group:old-news.html">
    </FileRef>
    <FileRef
+      location = "group:toranj-simin.html">
+   </FileRef>
+   <FileRef
       location = "group:faucher.html">
    </FileRef>
    <FileRef

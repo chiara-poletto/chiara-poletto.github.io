@@ -59,7 +59,7 @@ body
 #logo
 { width: var(--size-2);
   height: 300px;
-  background: url(../images/banner1.png) no-repeat;
+  background: url(../images/banner_2021.png) no-repeat;
   background-size: cover;
 }
 

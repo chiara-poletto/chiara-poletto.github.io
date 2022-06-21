@@ -11,6 +11,12 @@
       location = "group:contacts.html">
    </FileRef>
    <FileRef
+      location = "group:../../../../Research-strictly-speaking/COVID19/PAHO_variants.xctestplan">
+   </FileRef>
+   <FileRef
+      location = "group:marika.html">
+   </FileRef>
+   <FileRef
       location = "group:index.html">
    </FileRef>
    <FileRef

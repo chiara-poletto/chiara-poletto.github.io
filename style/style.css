@@ -396,7 +396,7 @@ table tr th, table tr td
     font: normal 100% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;}
 
 
-@media screen and (max-width: 481px){
+@media screen and (max-width: 600px){
  
  h1, h2, h3, h4, h5, h6
  { font: normal 350% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;

@@ -400,24 +400,19 @@ table tr th, table tr td
  
  h1, h2, h3, h4, h5, h6
  { font: normal 350% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
-   color: #444;
-   margin: 0 0 0px 0;
-   padding: 0px 0 5px 0;}
+ }
 
  h2
  { font: normal 350% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
-     color: #444;}
+ }
 
  h4, h5, h6
- { margin: 0;
-     padding: 0 0 5px 0;
-     font: normal 240% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
-     color: #555;}
+ {   font: normal 240% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
+   }
 
  h5, h6
  { font: italic 190% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
-     padding: 0 0 15px 0;
-     color: #000;}
+   }
  
  
 }

@@ -56,6 +56,9 @@
       location = "group:people.html">
    </FileRef>
    <FileRef
+      location = "group:dario.html">
+   </FileRef>
+   <FileRef
       location = "group:pinotti.html">
    </FileRef>
    <FileRef

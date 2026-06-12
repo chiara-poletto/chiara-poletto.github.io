@@ -68,4 +68,21 @@
     text-decoration: none;
 }
 
+body {
+  font-size: 16px;
+}
+
+#content {
+  font-size: 16px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+#menu li a {
+  font-size: 14px;
+}
+
 

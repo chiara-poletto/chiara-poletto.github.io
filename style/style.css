@@ -1,7 +1,7 @@
 :root {
-    --size-1: 910px; /*1200px;*/ /*910*/
-    --size-2: 705px; /*705*/ /*1180px;*/ /*890*/
-    --size-3: 800px; /*1100px;*/ /*800*/
+    --size-1: 1000px; /*1200px;*/ /*910*/
+    --size-2: 850px; /*705*/ /*1180px;*/ /*890*/
+    --size-3: 850px; /*1100px;*/ /*800*/
 }
 
 html
@@ -39,7 +39,7 @@ html
 }
 
 body
-{ font: normal 0.85em 'avenir next', arial, sans-serif;
+{ font: normal 0.75em 'avenir next', arial, sans-serif;
   background: #444;
   color: #555;
   width: 100%;}

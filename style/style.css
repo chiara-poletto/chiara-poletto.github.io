@@ -72,15 +72,16 @@ body
 #logo #logo_text 
 {   left: 0px;}
 
-#quotetext
-{ position:relative;
-  left: 350px;
+#quotetext {
+  position: static;
+  margin-left: auto;
+  margin-right: 0;
+  width: 500px;
   text-align: right;
-  width: 400px;
   font: italic 120% 'Hiragino Kaku Gothic Pro', 'avenir next', arial, sans-serif;
   color: #111;
   padding: 5px 5px 30px 5px;
-  }
+}
 
 table#t00 {
     width: 100%;

@@ -85,4 +85,26 @@ p, li {
   font-size: 14px;
 }
 
+#menubar {
+  float: none;
+  text-align: center;
+}
+
+ul#menu {
+  float: none;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+ul#menu li {
+  float: none;
+}
+
+ul#menu li a,
+ul#menu li.selected a {
+  float: none;
+}
+
 
